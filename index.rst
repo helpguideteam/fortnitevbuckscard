@@ -13,29 +13,26 @@ How to Redeem a Fortnite V-Bucks Card (Step-by-Step)
 
 Redeeming your V-Bucks card is a straightforward process. Follow these steps to add V-Bucks to your Fortnite account:
 
-Step 1: Visit the Official Redemption Website
----------------------------------------------
-Open your web browser and visit the official Fortnite V-Bucks redemption website: `fortnite.com/vbuckscard <https://www.fortnite.com/vbuckscard>`_
+**Step 1: Visit the Official Redemption Website**
+- Open your web browser and visit the official Fortnite V-Bucks redemption website: `fortnite.com/vbuckscard <https://www.fortnite.com/vbuckscard>`_
 
-Step 2: Start the Redemption Process
-------------------------------------
-Click the **Get Started** button to begin redeeming your V-Bucks card.
+**Step 2: Start the Redemption Process**
+- Click the **Get Started** button to begin redeeming your V-Bucks card.
 
-Step 3: Enter Your Card Code
-----------------------------
-Carefully scratch off the back of your V-Bucks card to avoid damage and reveal your PIN code.  
-Enter the PIN code **without any dashes** into the field provided, then click **Next**.
+**Step 3: Enter Your Card Code**
+- Carefully scratch off the back of your V-Bucks card to avoid damage and reveal your PIN code.  
+- Enter the PIN code **without any dashes** into the field provided, then click **Next**.
 
-Step 4: Select Your Platform
-----------------------------
-Choose the platform where you want to redeem your V-Bucks card, then click **Next**.
+**Step 4: Select Your Platform**
+
+- Choose the platform where you want to redeem your V-Bucks card, then click **Next**.
 
 .. note::
    If you don’t see your desired platform, verify the Epic Games account you're logged into. Only devices linked to your current Epic account will be displayed here.
 
-Step 5: Review and Confirm
---------------------------
-Check that the Epic account, device, and your new V-Bucks balance are correct. Then click **Confirm**.
+**Step 5: Review and Confirm**
+
+- Check that the Epic account, device, and your new V-Bucks balance are correct. Then click **Confirm**.
 
 Step 6: Finalize Redemption Based on Platform
 ---------------------------------------------
