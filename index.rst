@@ -167,6 +167,7 @@ V-Bucks cards are region-locked. If your card was purchased in a different count
 Some cards sold in those countries are currently restricted or region-locked. Make sure you are logged into an Epic account that matches the region of purchase. If the problem continues, contact Epic Games support.
 
 **What is Epic Games’ privacy policy?**
+
 You can view Epic Games’ official privacy policy here:  
 **https://www.epicgames.com/privacypolicy**
 
