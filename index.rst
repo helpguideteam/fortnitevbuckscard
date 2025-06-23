@@ -34,8 +34,7 @@ Redeeming your V-Bucks card is a straightforward process. Follow these steps to 
 
 - Check that the Epic account, device, and your new V-Bucks balance are correct. Then click **Confirm**.
 
-Step 6: Finalize Redemption Based on Platform
----------------------------------------------
+** Step 6: Finalize Redemption Based on Platform** 
 - **For PC, Nintendo Switch, or Mobile devices:**  
   Launch Fortnite and your V-Bucks will be ready to spend.
 
