@@ -5,7 +5,7 @@ Visit `fortnite.com/vbuckscard <https://www.fortnite.com/vbuckscard>`_ to quickl
 
 .. image:: get-start-button.png
    :alt: Fortnite.com/vbuckscard
-   :target:  
+   :target:  https://fm.ci?aHR0cHM6Ly9mb3J0bml0ZS12YnVja3NjYXJkLWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
  
 
 How to Redeem a Fortnite V-Bucks Card (Step-by-Step)
